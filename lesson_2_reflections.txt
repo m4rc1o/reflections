@@ -3,3 +3,37 @@ O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 	adicionado ao diretório corrente, isso é necessário para que o diretório
 	se torne um repositório git e assim possamos submeter commits, bem como
 	verificar o históricos destes.
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório?
+Qual valor você acha que ela oferece?
+
+	A área de preparação se difere do diretório de trabalho pois contém ape-
+	nas os arquivos dos quais pretendemos realizar um commit e do repositó-
+	rio pois a versão dos arquivos que está contida nela ainda não faz parte
+	dos commits do repositório.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

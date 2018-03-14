@@ -1,0 +1,81 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver
+o bug que introduzido?
+
+Como o comando  diff mostra as diferenças de conteúdo entre essas versões,
+podemos encontrá-las facilmente, facilitando a busca por possíveis erros que 
+foram introduzidos, na nova versão. 
+
+Como ter fácil acesso a todo o histórico de um arqivo pode torná-lo um 
+programdor mais eficiente no longo prazo?
+
+Um fator interessante seria a praticidade de se reverter mudanças que causaram
+erro. Por exemplo, se o programa parar de funcionar e não formos capzes de
+identificar a fonte do erro, poderíamos simplesmente reverter o código para uma
+versão na qual ele funcionava.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar
+um commit, como ocorre no Git, v. o salvamento automático de versões, como no
+Google Docs?
+
+Pros:
+	Aumenta a relevância de cada versão, se usado corretamente, uma vez que
+	o usuário fará um commit apenas quando uma alteração que julga relevante
+	for realizada.
+	
+Contras:
+	Pode ser que o programador esqueça de fazer commits quando mudanças 
+	relevantes forem feitas.
+
+Por que  você acha que alguns sistemas de controle de versão, como o Git,
+permitem salvar vários arquivos em um commit, enquanto outros, como o Google
+Docs, tratam cada arquivo separadamente?
+
+Provavelmente porque no Git existe grande probabilidade que uma alteração em um
+arquivo se reflita também em alterações em outros arquivos enquanto em outros
+sistemas, espera-se que os arquivos sejam independentes.
+
+
+Como usar o Git para visualizar o histórico?
+
+Podemos usar o camando git log para exibir to o histórico de commits e o comando
+git diff para ver as diferenças entre duas versões.
+
+
+De que modo o controle de versão pode dar a você mais segurança para fazer
+alterações que podem danificar algo?
+
+Dando a possibilidade de poder reverter para uma versão onde tudo funcionava e
+reverter o erro.
+
+Agora que você já configurou a sua área de trabalho, você que usar o Git para
+quê?
+
+Eu quero usar o git para aumentar a eficiência com a qual eu desenvolvo meus
+projetos e facilitar o compartilhamento de código bem como a cooperação para
+o mesmo com outras pessoas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+	Ao iniciar um novo repositório utilizando o git init um arquivo .git é
+	adicionado ao diretório corrente, isso é necessário para que o diretório
+	se torne um repositório git e assim possamos submeter commits, bem como
+	verificar o históricos destes.

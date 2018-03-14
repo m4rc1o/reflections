@@ -12,6 +12,69 @@ Qual valor você acha que ela oferece?
 	rio pois a versão dos arquivos que está contida nela ainda não faz parte
 	dos commits do repositório.
 
+Como vocêpode usar a área de preparação para garantir que tenha um commit por al-
+teração lógica?
+
+	Podemos  usar o camando git add para separar o conteúdo que transferido 
+	para a áre de preparação em alterações lógicas e fazer os respectivos
+	commits.
+
+
+Quais são algumas das situações em que branches seriam úteis para manter
+seu histórico organizado? Como branches ajudariam?
+
+	Quando eu quiser testar uma funcionalidade experimental do projeto.
+	Quando eu quiser desenvolver uma versão diferente do projeto e manter
+	a(s) anterior(es).
+	Os braches permitiriam adicionar as funcionalidade citadas anteriormente
+	e isolálas das outras versões do projeto. 
+
+Como os diagrams ajudam a visualizar a estrutura de branches?
+	
+	Os diagramas nos ajudam a visualizar quais commits fazem parte de cada 
+	branch e quais não fazem.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

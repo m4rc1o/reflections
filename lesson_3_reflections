@@ -7,3 +7,46 @@ Por que você prefere efetuar pull de alterações manualmente do que deixar o G
 atualizar-se automaticamente com o seu repositório remoto?
 
   Por que desta forma eu posso ter mais controle sobre o meu repositório local.
+
+Descreva as diferenças entre forks, clones e branches. Quando você usaria um
+e não os outros?
+  
+  Um branch é uma versão alternativa do projeto original, ou seja é uma bifurca-
+  ção daquele a partir de um determinado commit. Eu usaria para criar versões novas
+  ou experimentais  de um projeto.
+
+  Um clone é uma cópia de um repositório git para diretório local, ela pode 
+  provir tanto de um repositório local quanto de um remoto. Eu usaria para
+  copiar projetos nos quais eu tenho permissão para contribuir caso fosse a
+  opção mais prática.
+
+  Um fork é uma cópia  de um repositório git entre contas do github.
+  Eu usaria para copiar projetos nos quais eu não tenho permissão para contri-
+  buir mas gostaria de fazê-lo ou criar minha própria versão do mesmo.
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

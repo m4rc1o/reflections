@@ -34,7 +34,12 @@ Como os diagrams ajudam a visualizar a estrutura de branches?
 	Os diagramas nos ajudam a visualizar quais commits fazem parte de cada 
 	branch e quais não fazem.	
 
+Qual é o resultado da mesclagem de dois branches? Por que o representamos no dia-
+grama dessa forma?
 
+	Um branch resultante da fusão dos heads de cada um dos branchs. O "merge"
+	é representado assim no diagrama porque essa é uma representação coerente
+	e intuitiva.
 
 
 

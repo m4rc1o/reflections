@@ -41,6 +41,19 @@ grama dessa forma?
 	é representado assim no diagrama porque essa é uma representação coerente
 	e intuitiva.
 
+Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mes-
+clagens manualmente?
+	
+	prós:
+		Mais fácil e mais rápido.
+
+	contras:
+		Não é possível saber como mesclar corretamente o código em casos 
+		em que modificações na mesma parte do código foram feitas em
+		ambos os commits que estão sendo mesclados em relação ao código
+		original, nestes casos a mesclagem deve ser manual. 
+		
+
 
 
 

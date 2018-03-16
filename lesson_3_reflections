@@ -24,8 +24,55 @@ e não os outros?
   Eu usaria para copiar projetos nos quais eu não tenho permissão para contri-
   buir mas gostaria de fazê-lo ou criar minha própria versão do mesmo.
   
+Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado
+localmente?
 
+  A vantagem de poder-se ter alterações no repositório local e no remoto de maneiras 
+  independentes, depois, quando for realizado um pull, é criado um branch a partir desse
+  exato ponto contendo as alterações feitas no remoto, então quando o push for 
+  realizado, os dois brachs são mesclados(merge), isso pode acontecer de forma 
+  automática, caso não existam conflitos, ou manual, caso contrário.
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

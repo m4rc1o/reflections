@@ -33,7 +33,12 @@ localmente?
   realizado, os dois brachs são mesclados(merge), isso pode acontecer de forma 
   automática, caso não existam conflitos, ou manual, caso contrário.
   
+Como você colaboraria sem usar o Git ou o GitHub? O que seria mais fácil e mais difícil?
 
+  Usando o google drive e fazendo várias versões do arquivo.
+  Provavelmente seria mais fácil fazer as versões dos arquivos, uma vez que só seria neces-
+  sário copiar o mais recente, criar um novo e acrescentar as alterações porém seria muito
+  mais difícil a colaboração quando ela ocorre-se nas mesmas partes do código.
 
 
 

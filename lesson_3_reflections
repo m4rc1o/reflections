@@ -40,7 +40,14 @@ Como você colaboraria sem usar o Git ou o GitHub? O que seria mais fácil e mai
   sário copiar o mais recente, criar um novo e acrescentar as alterações porém seria muito
   mais difícil a colaboração quando ela ocorre-se nas mesmas partes do código.
 
+Quando você gostaria de fazer alterações em um branch separado, e não diretamente no 
+master? Quais são os benefícios de cada abordagem?
 
+  Quando eu quiser que as auterações que estou sugerindo nesse branch separado sejam
+  revisadas por alguém para decidir se serão então mescladas no master.
+  Uma vantagem seria justamente o fato de poder-se revisar e obter consenso sobre a
+  incorporação das alterações que serão inseridas na versão principal do projeto
+  uma desvantagem é que esse processo é um pouco mais trabalhoso.
 
 
 
